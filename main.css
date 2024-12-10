@@ -1,0 +1,59 @@
+#assign_header {
+	background-color: skyblue;
+	font-family: "Lato", Lato;
+	color: Black;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 18px;
+	text-align: center;
+	font-style: strong;
+}
+
+#assign_header h4 {
+	margin-bottom:Opx; 
+	font-size: 40px;
+}
+
+#assign_headline h1 {
+font-size: 40px;
+font-family: "Lato", Lato;
+font-weight: bold;
+}
+
+
+#assign_headline h3{
+font-size: 20px;
+font-family: "Lato", Lato;
+}
+
+p {
+	font-family: "Lato", Lato; 
+	font-size: 18px; 
+	text-align: left;
+	 margin-top: 15px; 
+	 margin-bottom: 15px; 
+	 padding-top: 5px;
+	 padding-bottom: 5px;
+	}
+
+.spaced-paragraph {
+	margin-bottom: 20px;
+}
+
+.margin-right {
+	margin-left: 100px;
+}
+
+.caption {
+	font-size: 16px;
+	color: gray;
+	margin-top: 0px;
+}
+
+.spacing{
+	margin-bottom: 30px;
+}
+
+
+/*Feel free to add to this file, but leave the
+stuff above alone.*/
